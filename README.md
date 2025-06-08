@@ -20,3 +20,5 @@ Vrinda Store project is to create a comprehensive annual sales report and dashbo
 1. Designing an interactive and user-friendly dashboard on a dedicated Excel sheet.
 2. Arranging charts, pivot tables, and KPIs neatly.
 3. Implementing Slicers to allow users to dynamically filter the data (by month, gender, state, sales channel) and get immediate insights
+
+(Please select View Raw to view the file)
